@@ -1,6 +1,6 @@
-Day-1  -  30-Jan-2021 [Git & github workshop]
+Day-1  -  30-Jan-2021 [Git & Github workshop]
 
-[https://www.facebook.com/207521455940241/posts/5791980957494235/]
+[My Post Link] https://www.facebook.com/207521455940241/posts/5791980957494235/
 
 * Git - VCS(Virsion Control System) and part of SCM-Source Code Management tool.
 * Git(DVCS)Decentralized / GitHub(CVCS)Centralized.
