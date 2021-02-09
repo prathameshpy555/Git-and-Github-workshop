@@ -1,4 +1,4 @@
-Day-1  -  30-Jan-2021 [Git & Github workshop]
+Day-1  -  30-Jan-2021 [Git & GitHub workshop]
 
 [My Post Link] https://www.facebook.com/207521455940241/posts/5791980957494235/
 
