@@ -9,7 +9,6 @@ Day-1  -  30-Jan-2021 [Git-GitHub workshop]
 * In Git world creating a back is called as Commit area.
 * We can create a backup at some point so that it can be utilised to revert the code to it's previous stage in case any code release doesn't work   as expected.
 * VCS(Version Control System) - maintaining the vesions / timeline of the code is known as VCS.
-*
   1. create a workspace (folder)
   2. then create a file
   3. write a code
