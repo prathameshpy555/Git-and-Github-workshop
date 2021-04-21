@@ -1,6 +1,6 @@
 Day-2  (31-Jan-2021)
 
-[https://www.facebook.com/story.php?story_fbid=5796346663724331&id=207521455940241]
+[My post link] [https://www.facebook.com/story.php?story_fbid=5796346663724331&id=207521455940241]
 
 * VCS(version controle system).
 * Difference is also known as 'Delta'.
